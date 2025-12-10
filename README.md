@@ -17,7 +17,7 @@ myAgro Food Security Impact Analysis
 
 # Introduction
 
-myAgro's mission is to move West African smallholder farmers out of poverty. By improving farm yields and incomes, myAgro strengthens household food security—one of several outcomes in its Theory of Change. **This impact analysis tests whether myAgro households are indeed more food secure as a result of myAgro services.**
+[myAgro's[(https://www.myagro.org/) mission is to move West African smallholder farmers out of poverty. By improving farm yields and incomes, myAgro strengthens household food security—one of several outcomes in its Theory of Change. **This impact analysis tests whether myAgro households are indeed more food secure as a result of myAgro services.**
 
 # Study Design & Data Collection
 
